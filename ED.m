@@ -2,7 +2,7 @@
 
 %Variables :
 k = physconst('Boltzmann')/(1.6*10^-19);
-t = 300; %eV
+t = 350; %eV
 e = 1; %eV
 nd = 8*10^18; %cm-3
 ndplus = 2*10^16; %cm-3
