@@ -2,7 +2,7 @@
 
 %Variables :
 k = physconst('Boltzmann');
-T = 300; %K
+T = 298; %K
 e = 1.6*10^-19; %C
 nd = 8*10^22; %m-3
 ndplus = 2*10^23; %m-3
